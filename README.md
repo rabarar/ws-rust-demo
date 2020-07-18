@@ -11,6 +11,6 @@ $ ./target/release/ws
 start the client
 
 ```rust
-websocat ws://localhost:9001
+$ websocat ws://localhost:9001
 ```
 
