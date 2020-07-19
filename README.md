@@ -1,21 +1,6 @@
 # ws-rust-demo
 
-### Demo
-
-start the server
-
-```
-$ ./target/release/ws
-```
-
-start the client
-
-```
-$ websocat ws://localhost:9001
-```
-
-
-### using wss
+### Demo of WS Server using TLS in Rust
 
 Generate cert/key
 
